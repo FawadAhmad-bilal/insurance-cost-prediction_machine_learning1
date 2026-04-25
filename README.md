@@ -1,8 +1,8 @@
-# 🏥 Insurance Premium Prediction using Machine Learning
+Insurance Premium Prediction using Machine Learning
 
 A machine learning project that predicts insurance premiums based on various customer attributes using regression models.
 
-## 📋 Table of Contents
+Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Dataset](#dataset)
