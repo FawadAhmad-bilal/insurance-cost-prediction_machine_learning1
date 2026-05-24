@@ -180,10 +180,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by real-world insurance premium calculation problems
 - Thanks to instructors and peers for guidance
 
-## 📧 Contact
-
-For questions or suggestions, feel free to reach out or open an issue!
-
----
-
 ⭐ If you find this project helpful, please consider giving it a star!
