@@ -170,7 +170,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Fawad**
-- Student ID: F24-3079
 - University of Haripur, Department of Information Technology
 - BSAI 4th Semester
 
